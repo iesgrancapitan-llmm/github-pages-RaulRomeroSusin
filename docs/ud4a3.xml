@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+  <title type="text" />
+  <id>Noticias</id>
+  <updated>2023-01-25T10:25:48Z</updated>
+  <entry>
+    <id></id>
+    <title type="text">Faker recomienda no jugar a LoL: 'Hay mucha gente que se estresa un montón'</title>
+    <summary type="text">El que es uno de los mejores jugadores de la historia de LoL también opina, como gran parte de la comunidad, que el título es muy frustrante y por eso 'no jugar es una buena opción'</summary>
+    <published>2023-01-25T13:24:51-07:00</published>
+    <updated>2023-01-25T13:24:22-07:00</updated>
+    <author>
+      <name>Vandal</name>
+    </author>
+      <Id></Id>
+      <Version>1.31</Version>
+      <References/>
+      <Rating xsi:nil="true" />
+      <RatingCount xsi:nil="true" />
+      <DownloadCount xsi:nil="true" />
+    </Vsix>
+  </entry>
+  <entry>
+    <id></id>
+    <title type="text">La segunda temporada de CoD: Warzone 2.0 traerá de vuelta el Gulag de uno contra uno</title>
+    <summary type="text">Infinity Ward y Activision Blizzard han escuchado las demandas de la comunidad y recuperarán el Gulag de un jugador contra otro en la segunda temporada, que llegará el 15 de febrero.</summary>
+  </entry>
+</feed>
