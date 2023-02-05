@@ -1,5 +1,17 @@
 <rss version="2.0">
     <channel>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+         <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
         <pubDate>23/01/2023</pubDate>
         <language>es</language>
         <author>Raúl Romero Susín</author>
